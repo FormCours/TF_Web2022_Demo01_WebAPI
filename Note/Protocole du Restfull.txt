@@ -1,0 +1,19 @@
+API RestFull → Utilisation des protocoles HTTP
+
+ • GET
+   Recuperation de données
+   → Pas de modification de données !!!
+   
+ • POST
+   Envoie de données vers le serveur
+   - Création de données
+   - Login / Register (JWT)
+
+ • PUT 
+   Mise à jours (complete) des données 
+   
+ • PATCH
+   Mise à jours (partiel) des données
+   
+ • DELETE
+   Suppression de données

@@ -1,0 +1,20 @@
+Les codes de reponse http:
+
+• Succes :
+	- 200 OK (avec des données)
+	- 204 OK no data
+	
+• Erreur de requete :
+	- 400 Bad Request
+	- 401 Authentification necessaire
+	- 403 Acces refusé
+	- 404 Not found
+	
+	- 418 I'am a teapot → Easter egg, ce sert a rien ;)
+	
+• Erreur de serveur : 
+	- 500 Plantage :(
+	- 501 Not implemented
+	- 504 Gateway Timeout (Pas de réponse)
+
+NB : https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
